@@ -62,3 +62,10 @@ if (isset($_POST["usu"]) && isset($_POST["clave"])) {
     }
 }
 ?>
+
+<form action="altas.html" method="get">
+    <input type="submit" value="Registrar nuevo usuario">
+</form>
+
+</body>
+</html>
